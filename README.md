@@ -1,4 +1,10 @@
-[![Build Status](https://travis-ci.org/leafo/lessphp.svg?branch=master)](https://travis-ci.org/leafo/lessphp)
+# lessphp library [![Build Status](https://ci.joomla.org/api/badges/joomla-projects/lessphp/status.svg)](https://ci.joomla.org/joomla-projects/lessphp)
+
+This is a fork of [leafo/lessphp](https://github.com/leafo/lessphp). The original library seems to be abandoned, however we are using it in Joomla 3 and need to make it compatible with the PHP versions we are maintaining.
+
+We are only going to maintain this library until the EOL of Joomla 3! We also don't guarantee any bug fixes or new features.
+
+Following you can read the original project description:
 
 # lessphp v0.5.0
 ### <http://leafo.net/lessphp>
